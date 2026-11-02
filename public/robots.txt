@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://devkhantnyi.vercel.app/sitemap.xml
